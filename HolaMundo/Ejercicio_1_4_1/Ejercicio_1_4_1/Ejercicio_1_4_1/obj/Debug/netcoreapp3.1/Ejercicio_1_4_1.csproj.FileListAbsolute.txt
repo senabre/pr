@@ -1,0 +1,13 @@
+E:\Programacion\HolaMundo\Ejercicio_1_4_1\Ejercicio_1_4_1\Ejercicio_1_4_1\bin\Debug\netcoreapp3.1\Ejercicio_1_4_1.exe
+E:\Programacion\HolaMundo\Ejercicio_1_4_1\Ejercicio_1_4_1\Ejercicio_1_4_1\bin\Debug\netcoreapp3.1\Ejercicio_1_4_1.deps.json
+E:\Programacion\HolaMundo\Ejercicio_1_4_1\Ejercicio_1_4_1\Ejercicio_1_4_1\bin\Debug\netcoreapp3.1\Ejercicio_1_4_1.runtimeconfig.json
+E:\Programacion\HolaMundo\Ejercicio_1_4_1\Ejercicio_1_4_1\Ejercicio_1_4_1\bin\Debug\netcoreapp3.1\Ejercicio_1_4_1.runtimeconfig.dev.json
+E:\Programacion\HolaMundo\Ejercicio_1_4_1\Ejercicio_1_4_1\Ejercicio_1_4_1\bin\Debug\netcoreapp3.1\Ejercicio_1_4_1.dll
+E:\Programacion\HolaMundo\Ejercicio_1_4_1\Ejercicio_1_4_1\Ejercicio_1_4_1\bin\Debug\netcoreapp3.1\Ejercicio_1_4_1.pdb
+E:\Programacion\HolaMundo\Ejercicio_1_4_1\Ejercicio_1_4_1\Ejercicio_1_4_1\obj\Debug\netcoreapp3.1\Ejercicio_1_4_1.csprojAssemblyReference.cache
+E:\Programacion\HolaMundo\Ejercicio_1_4_1\Ejercicio_1_4_1\Ejercicio_1_4_1\obj\Debug\netcoreapp3.1\Ejercicio_1_4_1.AssemblyInfoInputs.cache
+E:\Programacion\HolaMundo\Ejercicio_1_4_1\Ejercicio_1_4_1\Ejercicio_1_4_1\obj\Debug\netcoreapp3.1\Ejercicio_1_4_1.AssemblyInfo.cs
+E:\Programacion\HolaMundo\Ejercicio_1_4_1\Ejercicio_1_4_1\Ejercicio_1_4_1\obj\Debug\netcoreapp3.1\Ejercicio_1_4_1.csproj.CoreCompileInputs.cache
+E:\Programacion\HolaMundo\Ejercicio_1_4_1\Ejercicio_1_4_1\Ejercicio_1_4_1\obj\Debug\netcoreapp3.1\Ejercicio_1_4_1.dll
+E:\Programacion\HolaMundo\Ejercicio_1_4_1\Ejercicio_1_4_1\Ejercicio_1_4_1\obj\Debug\netcoreapp3.1\Ejercicio_1_4_1.pdb
+E:\Programacion\HolaMundo\Ejercicio_1_4_1\Ejercicio_1_4_1\Ejercicio_1_4_1\obj\Debug\netcoreapp3.1\Ejercicio_1_4_1.genruntimeconfig.cache

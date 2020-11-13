@@ -1,0 +1,13 @@
+E:\Programacion\prueba\prueba\bin\Debug\netcoreapp3.1\prueba.exe
+E:\Programacion\prueba\prueba\bin\Debug\netcoreapp3.1\prueba.deps.json
+E:\Programacion\prueba\prueba\bin\Debug\netcoreapp3.1\prueba.runtimeconfig.json
+E:\Programacion\prueba\prueba\bin\Debug\netcoreapp3.1\prueba.runtimeconfig.dev.json
+E:\Programacion\prueba\prueba\bin\Debug\netcoreapp3.1\prueba.dll
+E:\Programacion\prueba\prueba\bin\Debug\netcoreapp3.1\prueba.pdb
+E:\Programacion\prueba\prueba\obj\Debug\netcoreapp3.1\prueba.csprojAssemblyReference.cache
+E:\Programacion\prueba\prueba\obj\Debug\netcoreapp3.1\prueba.AssemblyInfoInputs.cache
+E:\Programacion\prueba\prueba\obj\Debug\netcoreapp3.1\prueba.AssemblyInfo.cs
+E:\Programacion\prueba\prueba\obj\Debug\netcoreapp3.1\prueba.csproj.CoreCompileInputs.cache
+E:\Programacion\prueba\prueba\obj\Debug\netcoreapp3.1\prueba.dll
+E:\Programacion\prueba\prueba\obj\Debug\netcoreapp3.1\prueba.pdb
+E:\Programacion\prueba\prueba\obj\Debug\netcoreapp3.1\prueba.genruntimeconfig.cache

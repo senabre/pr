@@ -1,0 +1,13 @@
+E:\Programacion\practica_1_1\practica_1_1\bin\Debug\netcoreapp3.1\practica_1_1.exe
+E:\Programacion\practica_1_1\practica_1_1\bin\Debug\netcoreapp3.1\practica_1_1.deps.json
+E:\Programacion\practica_1_1\practica_1_1\bin\Debug\netcoreapp3.1\practica_1_1.runtimeconfig.json
+E:\Programacion\practica_1_1\practica_1_1\bin\Debug\netcoreapp3.1\practica_1_1.runtimeconfig.dev.json
+E:\Programacion\practica_1_1\practica_1_1\bin\Debug\netcoreapp3.1\practica_1_1.dll
+E:\Programacion\practica_1_1\practica_1_1\bin\Debug\netcoreapp3.1\practica_1_1.pdb
+E:\Programacion\practica_1_1\practica_1_1\obj\Debug\netcoreapp3.1\practica_1_1.AssemblyInfoInputs.cache
+E:\Programacion\practica_1_1\practica_1_1\obj\Debug\netcoreapp3.1\practica_1_1.AssemblyInfo.cs
+E:\Programacion\practica_1_1\practica_1_1\obj\Debug\netcoreapp3.1\practica_1_1.csproj.CoreCompileInputs.cache
+E:\Programacion\practica_1_1\practica_1_1\obj\Debug\netcoreapp3.1\practica_1_1.dll
+E:\Programacion\practica_1_1\practica_1_1\obj\Debug\netcoreapp3.1\practica_1_1.pdb
+E:\Programacion\practica_1_1\practica_1_1\obj\Debug\netcoreapp3.1\practica_1_1.genruntimeconfig.cache
+E:\Programacion\practica_1_1\practica_1_1\obj\Debug\netcoreapp3.1\practica_1_1.csprojAssemblyReference.cache

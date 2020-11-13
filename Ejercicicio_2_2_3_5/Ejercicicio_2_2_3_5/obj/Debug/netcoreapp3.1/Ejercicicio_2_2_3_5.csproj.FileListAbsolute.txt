@@ -1,0 +1,13 @@
+E:\Programacion\Ejercicicio_2_2_3_5\Ejercicicio_2_2_3_5\bin\Debug\netcoreapp3.1\Ejercicicio_2_2_3_5.exe
+E:\Programacion\Ejercicicio_2_2_3_5\Ejercicicio_2_2_3_5\bin\Debug\netcoreapp3.1\Ejercicicio_2_2_3_5.deps.json
+E:\Programacion\Ejercicicio_2_2_3_5\Ejercicicio_2_2_3_5\bin\Debug\netcoreapp3.1\Ejercicicio_2_2_3_5.runtimeconfig.json
+E:\Programacion\Ejercicicio_2_2_3_5\Ejercicicio_2_2_3_5\bin\Debug\netcoreapp3.1\Ejercicicio_2_2_3_5.runtimeconfig.dev.json
+E:\Programacion\Ejercicicio_2_2_3_5\Ejercicicio_2_2_3_5\bin\Debug\netcoreapp3.1\Ejercicicio_2_2_3_5.dll
+E:\Programacion\Ejercicicio_2_2_3_5\Ejercicicio_2_2_3_5\bin\Debug\netcoreapp3.1\Ejercicicio_2_2_3_5.pdb
+E:\Programacion\Ejercicicio_2_2_3_5\Ejercicicio_2_2_3_5\obj\Debug\netcoreapp3.1\Ejercicicio_2_2_3_5.AssemblyInfoInputs.cache
+E:\Programacion\Ejercicicio_2_2_3_5\Ejercicicio_2_2_3_5\obj\Debug\netcoreapp3.1\Ejercicicio_2_2_3_5.AssemblyInfo.cs
+E:\Programacion\Ejercicicio_2_2_3_5\Ejercicicio_2_2_3_5\obj\Debug\netcoreapp3.1\Ejercicicio_2_2_3_5.csproj.CoreCompileInputs.cache
+E:\Programacion\Ejercicicio_2_2_3_5\Ejercicicio_2_2_3_5\obj\Debug\netcoreapp3.1\Ejercicicio_2_2_3_5.dll
+E:\Programacion\Ejercicicio_2_2_3_5\Ejercicicio_2_2_3_5\obj\Debug\netcoreapp3.1\Ejercicicio_2_2_3_5.pdb
+E:\Programacion\Ejercicicio_2_2_3_5\Ejercicicio_2_2_3_5\obj\Debug\netcoreapp3.1\Ejercicicio_2_2_3_5.genruntimeconfig.cache
+E:\Programacion\Ejercicicio_2_2_3_5\Ejercicicio_2_2_3_5\obj\Debug\netcoreapp3.1\Ejercicicio_2_2_3_5.csprojAssemblyReference.cache

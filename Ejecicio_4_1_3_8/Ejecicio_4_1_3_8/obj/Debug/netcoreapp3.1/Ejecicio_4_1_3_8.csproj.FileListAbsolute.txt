@@ -1,0 +1,3 @@
+E:\Programacion\Ejecicio_4_1_3_8\Ejecicio_4_1_3_8\obj\Debug\netcoreapp3.1\Ejecicio_4_1_3_8.AssemblyInfoInputs.cache
+E:\Programacion\Ejecicio_4_1_3_8\Ejecicio_4_1_3_8\obj\Debug\netcoreapp3.1\Ejecicio_4_1_3_8.AssemblyInfo.cs
+E:\Programacion\Ejecicio_4_1_3_8\Ejecicio_4_1_3_8\obj\Debug\netcoreapp3.1\Ejecicio_4_1_3_8.csproj.CoreCompileInputs.cache

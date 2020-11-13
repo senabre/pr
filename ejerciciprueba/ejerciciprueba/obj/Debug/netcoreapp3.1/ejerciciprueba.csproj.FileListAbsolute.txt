@@ -1,0 +1,13 @@
+E:\Programacion\ejerciciprueba\ejerciciprueba\bin\Debug\netcoreapp3.1\ejerciciprueba.exe
+E:\Programacion\ejerciciprueba\ejerciciprueba\bin\Debug\netcoreapp3.1\ejerciciprueba.deps.json
+E:\Programacion\ejerciciprueba\ejerciciprueba\bin\Debug\netcoreapp3.1\ejerciciprueba.runtimeconfig.json
+E:\Programacion\ejerciciprueba\ejerciciprueba\bin\Debug\netcoreapp3.1\ejerciciprueba.runtimeconfig.dev.json
+E:\Programacion\ejerciciprueba\ejerciciprueba\bin\Debug\netcoreapp3.1\ejerciciprueba.dll
+E:\Programacion\ejerciciprueba\ejerciciprueba\bin\Debug\netcoreapp3.1\ejerciciprueba.pdb
+E:\Programacion\ejerciciprueba\ejerciciprueba\obj\Debug\netcoreapp3.1\ejerciciprueba.csprojAssemblyReference.cache
+E:\Programacion\ejerciciprueba\ejerciciprueba\obj\Debug\netcoreapp3.1\ejerciciprueba.AssemblyInfoInputs.cache
+E:\Programacion\ejerciciprueba\ejerciciprueba\obj\Debug\netcoreapp3.1\ejerciciprueba.AssemblyInfo.cs
+E:\Programacion\ejerciciprueba\ejerciciprueba\obj\Debug\netcoreapp3.1\ejerciciprueba.csproj.CoreCompileInputs.cache
+E:\Programacion\ejerciciprueba\ejerciciprueba\obj\Debug\netcoreapp3.1\ejerciciprueba.dll
+E:\Programacion\ejerciciprueba\ejerciciprueba\obj\Debug\netcoreapp3.1\ejerciciprueba.pdb
+E:\Programacion\ejerciciprueba\ejerciciprueba\obj\Debug\netcoreapp3.1\ejerciciprueba.genruntimeconfig.cache
